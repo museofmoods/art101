@@ -1,0 +1,12 @@
+h1 {
+color: purple;
+font-size: 200%
+}
+
+p {
+  font-family: "georgia"
+  text-indent: 20px
+  margin-left: 10px
+}
+
+#content {}
