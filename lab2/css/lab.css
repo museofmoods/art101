@@ -11,4 +11,10 @@ p {
   margin-left: 10px
 }
 
-#content {}
+#content {
+  background-color: #B43104
+  width: 500px;
+  min-height: 300px;
+  padding: 10px;
+  border: solid 1px #444444;
+  font-size: 20px
