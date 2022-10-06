@@ -12,10 +12,10 @@ p {
 }
 
 #content {
-  background-color: #B43104;
+  background-color: brown;
   width: 500px;
   min-height: 300px;
   padding: 10px;
-  border: solid 1px #444444;
+  border: solid 1px black;
   font-size: 20px
 }
