@@ -1,18 +1,18 @@
 h1 {
-  color: purple;
+  color: darkblue;
   font-size: 200%
 }
 
 p {
   font-family: "helvetica"
   font-style: oblique;
-  color: gray;
+  color: black;
   text-indent: 20px;
   margin-left: 10px;
 }
 
 #content {
-  background-color:tan;
+  background-color:lightgreen;
   padding: 20px;
   margin: 10px;
   border: solid 1px black;
