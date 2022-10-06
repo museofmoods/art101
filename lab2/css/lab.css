@@ -4,7 +4,7 @@ font-size: 200%
 }
 
 p {
-  font-family: "georgia"
+  font-family: "helvetica"
   font-style: oblique;
   color: gray;
   text-indent: 20px;
@@ -17,5 +17,5 @@ p {
   min-height: 300px;
   padding: 10px;
   border: solid 1px black;
-  font-size: 20px
+  font-size: 20px;
 }
