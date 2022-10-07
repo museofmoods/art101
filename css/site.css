@@ -1,8 +1,15 @@
-
+h1 {
+  color: lightblue;
+  font-style: italic;
+  font-size: 200%
+}
 
 p {
-    color:purple:
-      font-weight bold;
+  font-family: "verdana"
+  font-style: oblique;
+  color: black;
+  text-indent: 20px;
+  margin-left: 10px;
 }
 
 #content {
