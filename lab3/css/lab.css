@@ -12,6 +12,16 @@ p {
   margin-left: 10px;
 }
 
+#callout {
+  background-color:red;
+  padding:20px;
+  margin:10px;
+  boder: solid 1px black;
+  border-radius: 20px; 
+}
+
+
+
 #content {
   background-color:lightgreen;
   padding: 20px;
