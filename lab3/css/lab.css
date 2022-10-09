@@ -14,8 +14,8 @@ p {
 
 #callout {
   background-color:orange;
-  padding:20px;
-  margin:10px;
+  padding: 20px;
+  margin: 10px;
   boder: solid 1px black;
   border-radius: 20px;
 }
