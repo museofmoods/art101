@@ -22,3 +22,11 @@ p { font-family: "verdana"
   border: solid 1px black;
   border-radius: 20px;
 }
+
+#callout {
+  background-color:lavender;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 20px;  
+}
