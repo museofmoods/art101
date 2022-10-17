@@ -1,16 +1,17 @@
-*Author: Jaq and Mikayla
+/*
+Author: Jaq and Mikayla
 *Created: 17 October
 *License: Public Domain
-/
+*/
 
 // Define Variables
-make = Volkswagen
-model = Golf
-color = Cherry Red
-year = 1995
+var make = Volkswagen;
+var model = Golf;
+var color = Cherry Red;
+var year = 1995;
 
 // Calculate
-age = 2022 - year
+var age = 2022 - year;
 
 // output
 document.writeln("Make: " + Volkswagen + "<br>");
