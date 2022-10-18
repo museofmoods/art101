@@ -14,8 +14,8 @@ var year = 1995;
 var age = 2022 - year;
 
 // output
-document.writeln("Make: " + Volkswagen + "<br>");
-document.writeln("Model: " + Golf + "<br>");
-document.writeln("Color: " + Cherry Red + "<br>");
+document.writeln("Make: " + make + "<br>");
+document.writeln("Model: " + model + "<br>");
+document.writeln("Color: " + cherry red + "<br>");
 document.writeln("Year: " + 1995 + "<br>");
 document.writeln("Age: " + 27 + "<br>");
