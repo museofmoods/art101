@@ -9,7 +9,7 @@
 //of their name
 
 function sortUserName() {
-  var userName = window.prompt("Hello. Please insert your name below for secret purposes")
+  var userName = window.prompt("Hello. Please insert your name below for special secret purposes")
   console.log("userName =", userName)
   // split string to array
   var nameArray = userName.split ('')
@@ -27,6 +27,5 @@ function sortUserName() {
 }
 
 // output
-document.wirteln("We have processed your information and will getting back to you in a fortnight. Thank you for your cooperation")
+document.wirteln("We have processed your information and will getting back to you in two moons. Thank you for your cooperation")
     sortUserName(, "</br>");
-    
