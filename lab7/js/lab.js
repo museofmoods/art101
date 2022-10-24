@@ -27,5 +27,5 @@ function sortUserName() {
 }
 
 // output
-document.wirteln("We have processed your information and will getting back to you in two moons. Thank you for your cooperation")
+document.writeln("We have processed your information and will getting back to you in two moons. Thank you for your cooperation")
     sortUserName(, "</br>");
