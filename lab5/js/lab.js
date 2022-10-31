@@ -4,18 +4,16 @@ Author: Jaq and Mikayla
 *License: Public Domain
 */
 
-// Define Variables
-var make = Volkswagen;
-var model = Golf;
-var color = Cherry Red;
+var make = "Volkswagen";
+var model = "Golf";
+var color = "Cherry Red";
 var year = 1995;
 
-// Calculate
+
 var age = 2022 - year;
 
-// output
 document.writeln("Make: " + make + "<br>");
 document.writeln("Model: " + model + "<br>");
-document.writeln("Color: " + cherry red + "<br>");
-document.writeln("Year: " + 1995 + "<br>");
-document.writeln("Age: " + 27 + "<br>");
+document.writeln("Color: " + color + "<br>");
+document.writeln("Year: " + year + "<br>");
+document.writeln("Age: " + age + "<br>");
