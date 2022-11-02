@@ -1,0 +1,43 @@
+
+h1 {
+  color: lightblue;
+  font-style: italic;
+  font-size: 200%;
+}
+h2 {
+  color: pink;
+  font-style: italic;
+  font-size: 100%;
+}
+h3{
+  color: lavender;
+  font-style: italic;
+  font-size: 100%;
+}
+p {
+  font-family: "verdana"
+  font-style: oblique;
+  color: black;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+#content {
+  font-family: "verdana"
+  font-style: oblique;
+  background-color: black;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 20px;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+#callout {
+  background-color:tan;
+  padding: 20px;
+  margin: 10px;
+  boder: solid 1px black;
+  border-radius: 20px;
+}

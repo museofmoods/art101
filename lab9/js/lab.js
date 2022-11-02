@@ -4,7 +4,9 @@ Author: Jaq and Mikayla
 * License: Public Domain
 */
 
+
 var outputEl = document.getElementById("output");
-var newEl1 = document.createElement("p")
-var newEl2 = document.createElement
+
+var new1El = document.createElement("p")
+var new2El = document.createElement("new2El")
 newEl1.innerHTML = "something")
