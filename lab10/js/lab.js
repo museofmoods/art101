@@ -6,24 +6,14 @@
 **/
 
 
-function sortUserName() {
-  var userName = window.prompt("Hello. Please insert your name below for special secret purposes");
-  console.log("userName = ", userName)
 
-  var nameArray = userName.split ('');
-  console.log("nameArray =", nameArray);
-  // sort the nameArray
-  var nameArraySort = nameArray.sort();
+var button = document.getElementById('my-button');
+button.addEventListener('click', function() {
+   inputValue = document.getElementById('user-name').value;
+   console.log("You input:", inputValue);
+var nameArraySort = nameArray.sort()
   console.log("nameArraySort =", nameArraySort);
+var nameSorted - nameArraySort.join('')
 
-  var nameSorted - nameArraySort.join('');
-
-
-  return.nameSorted;
-
-
-}
-
-
-document.writeln("We have processed your information and will getting back to you in two moons. Thank you for your cooperation")
-    sortUserName(, "</br>");
+return.nameSorted;
+});
