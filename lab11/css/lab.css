@@ -1,0 +1,36 @@
+div {
+  width: 30%;
+  height: 30%;
+  background-color: purple;
+}
+
+p { font-family: "verdana"
+  font-style: oblique;
+  color: black;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+#special {
+  background-color:purple;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 20px;
+}
+
+#specialer {
+  background-color:lavender;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 20px;
+}
+
+#specialist {
+  background-color:purple;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 20px;
+}

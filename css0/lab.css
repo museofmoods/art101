@@ -1,0 +1,33 @@
+
+h1 {
+  color:blue;
+  font-style: italic;
+  font-size: 200%;
+}
+h2 {
+    color: blue;
+    font-size: 100%
+}
+
+p { font-family: "verdana"
+  font-style: oblique;
+  color: black;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+#content {
+  background-color:purple;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 20px;
+}
+
+#callout {
+  background-color:lavender;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 20px;
+}
